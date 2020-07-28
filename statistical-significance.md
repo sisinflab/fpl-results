@@ -21,5 +21,6 @@
 | **Top-Pop** | <ul><li>Prec: 0.000</li><li>Rec: 0.000</li></ul> | | <ul><li>Prec: 0.000</li><li>Rec: 0.000</li></ul> | <ul><li>Prec: 0.000</li><li>Rec: 0.000</li></ul> | <ul><li>Prec: 0.000</li><li>Rec: 0.000</li></ul>  | <ul><li>Prec: 0.000</li><li>Rec: 0.000</li></ul>  | <ul><li>Prec: 0.000</li><li>Rec: 0.000</li></ul>  |
 | **VAE** | <ul><li>Prec: 0.319</li><li>Rec: 0.228</li></ul> | <ul><li>Prec: 0.000</li><li>Rec: 0.000</li></ul> | | <ul><li>Prec: 0.319</li><li>Rec: 0.319</li></ul> | <ul><li>Prec: 0.000</li><li>Rec: 0.000</li></ul>  | <ul><li>Prec: 1.000</li><li>Rec: 0.552</li></ul>  | <ul><li>Prec: 0.319</li><li>Rec: 0.319</li></ul>  |
 | **BPR-MF** | <ul><li>Prec: 0.083</li><li>Rec: 0.088</li></ul> | <ul><li>Prec: 0.000</li><li>Rec: 0.000</li></ul> | <ul><li>Prec: 0.319</li><li>Rec: 0.319</li></ul> |  | <ul><li>Prec: 0.000</li><li>Rec: 0.000</li></ul>  | <ul><li>Prec: 0.319</li><li>Rec: 0.319</li></ul>  | <ul><li>Prec: 0.000</li><li>Rec: 0.000</li></ul>  |
- 
+ | **FCF** | <ul><li>Prec: 0.000</li><li>Rec: 0.000</li></ul> | <ul><li>Prec: 0.000</li><li>Rec: 0.000</li></ul> | <ul><li>Prec: 0.000</li><li>Rec: 0.000</li></ul> |  <ul><li>Prec: 0.000</li><li>Rec: 0.000</li></ul> | | <ul><li>Prec: 0.000</li><li>Rec: 0.000</li></ul>  | <ul><li>Prec: 0.000</li><li>Rec: 0.000</li></ul>  |
+
 
